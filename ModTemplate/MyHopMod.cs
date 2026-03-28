@@ -24,13 +24,15 @@ namespace ModTemplate
         public override string Description => "The developer has yet to replace me with something meaningful. Maybe I haven't been assertive enough :/";
 
         //Each mod will only have one instance of their HopMod floating around. Making this Main (alt. instance) will help you keep track of it.
-        public static MyHopMod Main;
+        public static MyHopMod instance;
 
         //Helpful to not double load things
         public bool assetsLoaded = false;
+
+        public static void Log(string msg) => instance.DebugLog("TBD", msg);
         public MyHopMod(string path) : base(path)
         {
-            Main = this;
+            instance = this;
             //Do not try to interact with other mods at this stage!
             //Do not create assets here!
         }

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectFrames", "AspectFrame
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMod", "TestMod\TestMod.csproj", "{75070984-D3B6-4776-A4F6-D70191B8A471}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternateTraits", "AlternateEffects\AlternateTraits.csproj", "{451B9971-5284-409A-A6F4-240376623936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{75070984-D3B6-4776-A4F6-D70191B8A471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75070984-D3B6-4776-A4F6-D70191B8A471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75070984-D3B6-4776-A4F6-D70191B8A471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451B9971-5284-409A-A6F4-240376623936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451B9971-5284-409A-A6F4-240376623936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451B9971-5284-409A-A6F4-240376623936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451B9971-5284-409A-A6F4-240376623936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

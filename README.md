@@ -15,6 +15,14 @@ This mod opens the Unity Explorer in-game. the Unity Explorer allows you to insp
 
 This mod adds a couple of cards based off the demon goats in Wildfrost. Art assets are not mine.
 
+## Aspect Frames
+[Download](https://github.com/mhcdc9/HolderOfPlace-Mods/releases/download/v0.2.1/AspectFrames.zip) (updated 3/28/26)
+
+This mod makes it so equipped aspect icons appear to the top-left of the card portrait (See picture below).
+
+<img width="198" height="198" alt="icon" src="https://github.com/user-attachments/assets/6d04e4b3-220e-46d1-b8bc-018ecda9b5d1" />
+
+
 # Installing Mods
 If you don't have the modding framework running yet, follow the instructions on the [other repository](https://github.com/mhcdc9/HolderOfPlace-ModdingBase) and then return here.
 
